@@ -255,6 +255,9 @@ GROUP BY category;
 ```
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
+# 📊 Netflix Content Analysis – Power BI Dashboard  
+
+![Netflix Power BI Dashboard](Screenshot%202025-03-26%20185511.png)
 
 ## Findings and Conclusion
 
