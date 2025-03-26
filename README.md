@@ -257,7 +257,13 @@ GROUP BY category;
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 # 📊 Netflix Content Analysis – Power BI Dashboard  
 
-![Netflix Power BI Dashboard](Screenshot%202025-03-26%20185511.png)
+![Netflix Power BI Dashboard](Netflix%20Dashboard.png)
+📊 Key Features
+✔ Content Type Breakdown – Movies vs. TV Shows
+✔ Content Released Over Time – Trends in new content additions
+✔ Top-Producing Countries – Countries contributing the most content
+✔ Most Common Genres – Popular Netflix content categories
+✔ Interactive Filters – Select by content type (Movie/TV Show)
 
 ## Findings and Conclusion
 
