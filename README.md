@@ -253,6 +253,28 @@ FROM (
 ) AS categorized_content
 GROUP BY category;
 ```
+# 📊 Netflix Case Study – Python
+## Key Insights
+
+- **Content Distribution**: Around 70% of Netflix's content is movies, while 30% is TV shows. A surge in content uploads began around 2015, peaking in 2019.
+- **Rise of TV Shows**: Since 2018, TV shows have outpaced movies in terms of volume, showing a rising popularity for TV shows.
+- **Geographical Insights**: The United States contributes the most content, accounting for nearly 37%, but there is a wide array of genres specific to different countries (e.g., Korean TV shows, Japanese Anime).
+- **Content Ratings**: The majority of content falls under TV-MA, aimed at mature audiences. Less content is available for children or younger viewers in most regions.
+- **Duration Trends**: Shorter duration content (75-150 minutes for movies and 1-3 seasons for TV shows) has gained popularity over the last decade.
+
+## Business Insights
+
+- The content available on Netflix predominantly targets mature audiences (TV-MA) and children with parental guidance (TV-PG).
+- More than 80% of the content is produced by only 10 countries, primarily the United States.
+- There's an opportunity to increase regional content diversity by focusing on genres specific to countries, such as Indian Mythological content, which could appeal globally.
+- Shorter content has become more popular, indicating a shift in viewer preferences towards quicker, more bingeable shows and movies.
+
+## Recommendations
+
+- **Genre Expansion**: Netflix can expand genre offerings to cater to specific regional interests, such as creating more content focused on Indian Mythology, which is currently a niche market.
+- **Target Demographic Adjustments**: Tailoring content to the demographic needs of specific countries and regions can boost engagement. For example, focusing on ratings for children in countries like India could fill a gap in the content offering.
+- **Diversifying Content**: More content targeting seniors (before 2000) could be introduced to appeal to the aging population that’s currently underserved.
+  
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 # 📊 Netflix Content Analysis – Power BI Dashboard  
